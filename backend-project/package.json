@@ -1,0 +1,17 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Backend Project to learn how to manage complex project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Mongodb",
+    "Mongoose",
+    "Express"
+  ],
+  "author": "Sufiyan AK",
+  "license": "ISC"
+}
