@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Backend Project to learn how to manage complex project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JavaScript",
@@ -13,5 +14,8 @@
     "Express"
   ],
   "author": "Sufiyan AK",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
